@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+  max-width: 1024px;
+}
+
+.column {
+  flex: 1;
+}
+
+.card {
+  border: 1px solid blue;
+  border-left: 4px solid blue;
+  border-radius: 3px;
+  height: 100px;
+  padding: 10px;
+}
